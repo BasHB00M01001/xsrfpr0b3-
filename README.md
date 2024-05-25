@@ -18,6 +18,8 @@ pip install yattag
 OR
 
 pip install -r requirements.txt
+
+
 ![srf2](https://github.com/BasHB00M01001/xsrfpr0b3-/assets/112975863/c457d163-c5b1-44c0-9eed-69edc2c0081e)
 Performs several types of checks before declaring an endpoint as vulnerable.
 Can detect several types of Anti-CSRF tokens in POST requests.
