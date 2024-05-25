@@ -1,5 +1,23 @@
 # xsrfkr0k3-
 xsrfkr0k3 is an advanced Cross Site Request Forgery (CSRF/XSRF) Audit and Exploitation Toolkit. Equipped with a Powerful Crawling Engine and Numerous Systematic Checks, it is now able to detect most cases of CSRF vulnerabilities,their related bypasses and futher generate (maliciously) exploitable proof of concepts with each found vulnerability. For more info on how XSRFProbe works, see XSRFProbe Internals on wiki.
+
+install manual;
+
+pip install requests
+
+pip install bs4
+
+pip install request
+
+pip install stringdist
+
+pip install tld
+
+pip install yattag
+
+OR
+
+pip install -r requirements.txt
 ![srf2](https://github.com/BasHB00M01001/xsrfpr0b3-/assets/112975863/c457d163-c5b1-44c0-9eed-69edc2c0081e)
 Performs several types of checks before declaring an endpoint as vulnerable.
 Can detect several types of Anti-CSRF tokens in POST requests.
